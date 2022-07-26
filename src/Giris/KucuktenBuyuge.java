@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class BuyuktenKucuge {
+public class KucuktenBuyuge {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int a,b,c;
