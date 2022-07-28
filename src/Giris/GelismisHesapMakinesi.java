@@ -136,7 +136,7 @@ public class GelismisHesapMakinesi {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int select;
-        String menu = "1- Toplama İşlemi\n"
+        String menu = "1- Toplama İşlemi \n"
                 + "2- Çıkarma İşlemi\n"
                 + "3- Çarpma İşlemi\n"
                 + "4- Bölme işlemi\n"
