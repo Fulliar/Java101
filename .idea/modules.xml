@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BoxGame/BoxGame.iml" filepath="$PROJECT_DIR$/../BoxGame/BoxGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/../OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
     </modules>
   </component>
 </project>
